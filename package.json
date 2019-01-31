@@ -1,0 +1,25 @@
+{
+  "name": "snake_caser",
+  "version": "0.1.0",
+  "description": "Snake caser",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "snakecase-keys": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boilertalk/snake_caser.git"
+  },
+  "author": "Koray Koska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Boilertalk/snake_caser/issues"
+  },
+  "homepage": "https://github.com/Boilertalk/snake_caser#readme"
+}
